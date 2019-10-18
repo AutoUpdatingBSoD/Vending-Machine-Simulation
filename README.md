@@ -1,6 +1,4 @@
-# Vending-Machine-Simulation
-
-# Simulated Vending Machine
+# Vending Machine Simulation
 
 A Vending Machine GUI simulation for a class
 
