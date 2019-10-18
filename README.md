@@ -4,6 +4,8 @@
 
 A Vending Machine GUI simulation for a class
 
+Email me at mhammond9@radford.edu for the source, if you're an employer.
+
 -------------------------------------------------------------------------------------
  Michael Hammond
  
